@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Yeoh Yee Syuen — Software Engineer',
+  title: 'Yeoh Yee Syuen — Portfolio',
   description: 'Computer Science student. Aspiring software engineer. Building software, exploring AI, and turning ideas into products.',
   keywords: ['software engineer', 'computer science', 'portfolio', 'full-stack', 'Malaysia'],
 };
